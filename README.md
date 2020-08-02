@@ -1,0 +1,2 @@
+# Word-Embedding-using-CBOW-from-scratch
+In natural language understanding, we represent words as vectors in different dimension. We can find similarity among words by visualizing the vector space. This is the implementation of word embedding using the continuous bag of words method. This implementation has been done from the scratch without any help of python's neural network building libraries such as keras &amp; tensorflow or pytorch.
